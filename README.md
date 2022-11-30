@@ -75,13 +75,14 @@ Installation position: floor, ceiling, walls.
 #### Procedure : 
 
 1. click on dart platfom icon
-2. 
+
 ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
+
 2. click on the internet interface
   
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 
-and click on the connect icon 
+
 
 
 
@@ -102,6 +103,7 @@ and click on the connect icon
 
 ### Results: 
 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
