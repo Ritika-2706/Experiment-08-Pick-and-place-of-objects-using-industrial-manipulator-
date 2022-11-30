@@ -74,22 +74,11 @@ Installation position: floor, ceiling, walls.
 
 #### Procedure : 
 
-1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
+1. click on dart platfom icon
+![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
-
-3. click on the 
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -99,7 +88,9 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
-
+![ss1](https://user-images.githubusercontent.com/93427238/204821418-b26d50b1-1691-4458-8223-821a2c20106b.jpg)
+![ss2](https://user-images.githubusercontent.com/93427238/204821444-5b1d6e72-727e-41c2-91b1-04362a86247c.jpg)
+![ss3](https://user-images.githubusercontent.com/93427238/204821469-21f3dd3a-11ca-4175-be03-1d06b77a177f.jpg)
 
 
 
